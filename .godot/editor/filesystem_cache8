@@ -1,0 +1,95 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1722177881
+export_presets.cfg::TextFile::-1::1722173287::0::1::::<><>::
+game_manager.gd::GDScript::-1::1722173287::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::4660330711245336293::1722173287::1722174280::1::::<><>::
+main.gd::GDScript::-1::1722173287::0::1::::<>Node<>::
+main.tscn::PackedScene::9114685970142937889::1722176848::0::1::::<><>::uid://bde0jlck61cdp::::res://player/player.tscn<>res://main.gd<>uid://p2vk0twwwl8r::::res://systems/mob_spawner.tscn<>uid://b6lpsu2tw7r46::::res://ui/game_over_ui.tscn<>uid://brw0ho76keplr::::res://ui/game_ui.tscn<>uid://ctvdvpo1kxsrb::::res://addons/Tiny Swords/Terrain/Water/Water.png<>uid://ws1vyo1ylijw::::res://addons/Tiny Swords/Terrain/Ground/Tilemap_Flat.png<>uid://btu8tbipjlr0n::::res://addons/Tiny Swords/Deco/01.png<>uid://duiw5ryal2b1q::::res://addons/Tiny Swords/Deco/10.png<>uid://bcw2byy7iqgck::::res://addons/Tiny Swords/Deco/11.png<>uid://b8jgcafo660ux::::res://addons/Tiny Swords/Deco/02.png<>uid://vccq211cti5k::::res://addons/Tiny Swords/Deco/03.png<>uid://dcg1cu4jb0myu::::res://addons/Tiny Swords/Deco/04.png<>uid://cni5pavfj8k6w::::res://addons/Tiny Swords/Deco/05.png<>uid://b7w7o1qcvwril::::res://addons/Tiny Swords/Deco/06.png<>uid://dkp5lsb46ouht::::res://addons/Tiny Swords/Deco/07.png<>uid://y3h28d71v6la::::res://addons/Tiny Swords/Deco/08.png<>uid://d3mjufoheeq45::::res://addons/Tiny Swords/Deco/09.png<>res://systems/difficulty_system.gd<>uid://xoffyjiw628u::::res://misc/tree.tscn
+::res://addons/::1722175656
+::res://addons/Kenney's Particle Pack/::1722177531
+circle_03.png::CompressedTexture2D::6556474168737457533::1722173287::1722174282::1::::<><>::
+light_02.png::CompressedTexture2D::6445980021283996682::1722173288::1722174282::1::::<><>::
+magic_02.png::CompressedTexture2D::1379383238926518736::1722173288::1722174281::1::::<><>::
+::res://addons/Tiny Swords/::1722177560
+::res://addons/Tiny Swords/Deco/::1722177554
+01.png::CompressedTexture2D::3763333924318194923::1722173292::1722174283::1::::<><>::
+02.png::CompressedTexture2D::4721599805481908747::1722173292::1722174283::1::::<><>::
+03.png::CompressedTexture2D::1478245938074930334::1722173292::1722174283::1::::<><>::
+04.png::CompressedTexture2D::7313609313957047852::1722173292::1722174283::1::::<><>::
+05.png::CompressedTexture2D::5703659686086075220::1722173292::1722174283::1::::<><>::
+06.png::CompressedTexture2D::4679849326026440735::1722173292::1722174283::1::::<><>::
+07.png::CompressedTexture2D::7893958255611205777::1722173292::1722174283::1::::<><>::
+08.png::CompressedTexture2D::1742809799205756282::1722173292::1722174283::1::::<><>::
+09.png::CompressedTexture2D::9149904659373505912::1722173292::1722174283::1::::<><>::
+10.png::CompressedTexture2D::8580944223518459536::1722173292::1722174283::1::::<><>::
+11.png::CompressedTexture2D::2573857125258049894::1722173292::1722174283::1::::<><>::
+::res://addons/Tiny Swords/Factions/::1722176221
+::res://addons/Tiny Swords/Factions/Goblins/::1722177740
+::res://addons/Tiny Swords/Factions/Goblins/Troops/::1722177754
+::res://addons/Tiny Swords/Factions/Goblins/Troops/Torch/::1722177761
+::res://addons/Tiny Swords/Factions/Goblins/Troops/Torch/Red/::1722175779
+Torch_Red.png::CompressedTexture2D::6036208549680950117::1722173295::1722174283::1::::<><>::
+::res://addons/Tiny Swords/Factions/Knights/::1722177745
+::res://addons/Tiny Swords/Factions/Knights/Troops/::1722177771
+::res://addons/Tiny Swords/Factions/Knights/Troops/Dead/::1722175779
+Dead.png::CompressedTexture2D::3199168637222355680::1722173297::1722174280::1::::<><>::
+::res://addons/Tiny Swords/Factions/Knights/Troops/Pawn/::1722177781
+::res://addons/Tiny Swords/Factions/Knights/Troops/Pawn/Red/::1722175779
+Pawn_Red.png::CompressedTexture2D::3742451178164560824::1722173297::1722174280::1::::<><>::
+::res://addons/Tiny Swords/Factions/Knights/Troops/Warrior/::1722177795
+::res://addons/Tiny Swords/Factions/Knights/Troops/Warrior/Purple/::1722175779
+Warrior_Purple.png::CompressedTexture2D::8375208931989112514::1722173298::1722174280::1::::<><>::
+::res://addons/Tiny Swords/Resources/::1722177669
+::res://addons/Tiny Swords/Resources/Resources/::1722177724
+M_Idle_(NoShadow).png::CompressedTexture2D::3523258619020820480::1722173299::1722174279::1::::<><>::
+M_Spawn.png::CompressedTexture2D::5586232907923804578::1722173299::1722174279::1::::<><>::
+::res://addons/Tiny Swords/Resources/Sheep/::1722177682
+HappySheep_Bouncing.png::CompressedTexture2D::8300431910822742947::1722173299::1722174279::1::::<><>::
+::res://addons/Tiny Swords/Resources/Trees/::1722176223
+Tree.png::CompressedTexture2D::7213162146268682772::1722173299::1722174279::1::::<><>::
+::res://addons/Tiny Swords/Terrain/::1722177647
+::res://addons/Tiny Swords/Terrain/Ground/::1722177662
+Tilemap_Flat.png::CompressedTexture2D::1582930786495219584::1722173299::1722174279::1::::<><>::
+::res://addons/Tiny Swords/Terrain/Water/::1722177654
+Water.png::CompressedTexture2D::6150001792667498659::1722173299::1722174279::1::::<><>::
+::res://addons/Tiny Swords/UI/::1722177579
+::res://addons/Tiny Swords/UI/Banners/::1722177634
+Banner_Horizontal.png::CompressedTexture2D::4055836075355503299::1722173300::1722174279::1::::<><>::
+::res://addons/Tiny Swords/UI/Ribbons/::1722177609
+Ribbon_Red_3Slides.png::CompressedTexture2D::6238517841057951300::1722173303::1722174280::1::::<><>::
+Ribbon_Yellow_3Slides.png::CompressedTexture2D::3099515262451238196::1722173304::1722174280::1::::<><>::
+::res://enemies/::1722174776
+enemy.gd::GDScript::-1::1722174776::0::1::::Enemy<>Node2D<>::
+goblin.tscn::PackedScene::1145807534396859601::1722173304::0::1::::<><>::res://enemies/behaviors/follow_player.gd<>res://enemies/enemy.gd<>uid://ry1pj6uph82y::::res://misc/skull.tscn<>uid://cr88qcxlrs6ub::::res://addons/Tiny Swords/Factions/Goblins/Troops/Torch/Red/Torch_Red.png<>uid://djbg0mm1ruq0t::::res://misc/meat.tscn<>uid://x1fal2eghbtx::::res://misc/golden_meat.tscn
+pawn.tscn::PackedScene::8783711063081604950::1722173304::0::1::::<><>::res://enemies/behaviors/follow_player.gd<>uid://btk4vhqviv5ds::::res://addons/Tiny Swords/Factions/Knights/Troops/Pawn/Red/Pawn_Red.png<>res://enemies/enemy.gd<>uid://ry1pj6uph82y::::res://misc/skull.tscn<>uid://djbg0mm1ruq0t::::res://misc/meat.tscn
+sheep.tscn::PackedScene::7811002949826261051::1722173304::0::1::::<><>::res://enemies/enemy.gd<>uid://ry1pj6uph82y::::res://misc/skull.tscn<>uid://djbg0mm1ruq0t::::res://misc/meat.tscn<>uid://dqi15vnrvcmjb::::res://addons/Tiny Swords/Resources/Sheep/HappySheep_Bouncing.png<>res://enemies/behaviors/follow_player.gd
+::res://enemies/behaviors/::1722174147
+follow_player.gd::GDScript::-1::1722173304::0::1::::<>Node<>::
+::res://exports/::1722177909
+::res://exports/web/::1722178534
+index.apple-touch-icon.png::CompressedTexture2D::8567832173360556547::1722177881::1722178633::1::::<><>::
+index.icon.png::CompressedTexture2D::8757277437406646856::1722177881::1722178633::1::::<><>::
+index.png::CompressedTexture2D::3221173976936579070::1722177881::1722178633::1::::<><>::
+::res://misc/::1722174148
+big_skull.tscn::PackedScene::2007649548050267620::1722173304::0::1::::<><>::uid://ry1pj6uph82y::::res://misc/skull.tscn
+damage_digit.gd::GDScript::-1::1722173304::0::1::::<>Node2D<>::
+damage_digit.tscn::PackedScene::1110510680752239539::1722173304::0::1::::<><>::res://misc/damage_digit.gd
+golden_meat.tscn::PackedScene::1668321429900738809::1722173304::0::1::::<><>::uid://djbg0mm1ruq0t::::res://misc/meat.tscn
+life_regenerator.gd::GDScript::-1::1722173304::0::1::::<>Node2D<>::
+meat.tscn::PackedScene::7793435618402574485::1722173304::0::1::::<><>::uid://cluao7pi5nxjm::::res://addons/Tiny Swords/Resources/Resources/M_Spawn.png<>res://misc/life_regenerator.gd
+ritual.gd::GDScript::-1::1722173304::0::1::::<>Node2D<>::
+ritual.tscn::PackedScene::4608796527006993467::1722173304::0::1::::<><>::res://misc/ritual.gd<>uid://c0oaf3onb085f::::res://addons/Kenney's Particle Pack/circle_03.png<>uid://cx3ql4whiop83::::res://addons/Kenney's Particle Pack/light_02.png<>uid://twgif6i3eeey::::res://addons/Kenney's Particle Pack/magic_02.png
+skull.tscn::PackedScene::1244361358192642586::1722173304::0::1::::<><>::uid://bltx3tdl7esn5::::res://addons/Tiny Swords/Factions/Knights/Troops/Dead/Dead.png
+tree.tscn::PackedScene::1643558481022715258::1722173304::0::1::::<><>::uid://da1dyyb63rowi::::res://addons/Tiny Swords/Resources/Trees/Tree.png
+::res://player/::1722174563
+player.gd::GDScript::-1::1722174563::0::1::::Player<>CharacterBody2D<>::
+player.tscn::PackedScene::2606779303931008381::1722173305::0::1::::<><>::uid://drlap5nxx8qde::::res://addons/Tiny Swords/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple.png<>res://player/player.gd<>uid://b6wsg8q4fpus6::::res://misc/ritual.tscn<>uid://3urxvd4swjei::::res://misc/big_skull.tscn
+::res://systems/::1722174148
+difficulty_system.gd::GDScript::-1::1722173305::0::1::::<>Node<>::
+mob_spawner.gd::GDScript::-1::1722173305::0::1::::MobSpawner<>Node2D<>::
+mob_spawner.tscn::PackedScene::1109865112182139183::1722173305::0::1::::<><>::res://systems/mob_spawner.gd<>uid://qlbju1yy86rl::::res://enemies/goblin.tscn<>uid://dxe5o5g612ryk::::res://enemies/pawn.tscn<>uid://djjycvpoebuqd::::res://enemies/sheep.tscn
+::res://ui/::1722177057
+game_over_ui.gd::GDScript::-1::1722173305::0::1::::GameOverUI<>CanvasLayer<>::
+game_over_ui.tscn::PackedScene::4585926984019220541::1722177057::0::1::::<><>::uid://cu48qh4ctofaq::::res://addons/Tiny Swords/UI/Ribbons/Ribbon_Red_3Slides.png<>res://ui/game_over_ui.gd<>uid://bx1xa65vtyixf::::res://addons/Tiny Swords/UI/Banners/Banner_Horizontal.png
+game_ui.gd::GDScript::-1::1722173305::0::1::::<>CanvasLayer<>::
+game_ui.tscn::PackedScene::3626578547688142307::1722176848::0::1::::<><>::res://ui/game_ui.gd<>uid://bx1xa65vtyixf::::res://addons/Tiny Swords/UI/Banners/Banner_Horizontal.png<>uid://bqgxs4h7tu1tc::::res://addons/Tiny Swords/Resources/Resources/M_Idle_(NoShadow).png
